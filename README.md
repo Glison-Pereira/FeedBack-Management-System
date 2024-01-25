@@ -4,7 +4,7 @@ To Download mysql in your pc follow link below👇:
 
 https://dev.mysql.com/downloads/
 
-To run the GUI you will require mysqljava jar file which need to be store at same location where you will have all the java files for this project store. Download the mysqljava jar file from link below👇:
+To run the website you will require mysqljava jar file which need to be store at same location where you will have all the java files for this project store. Download the mysqljava jar file from link below👇:
 
 https://dev.mysql.com/downloads/connector/j/
 
